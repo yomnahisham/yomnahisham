@@ -5,11 +5,8 @@ Hey! I'm Yomna Hisham Abdelkader Othman, an Electronics and Communication Engine
 ## About Me
 
 🔭 I’m currently exploring the vast universe of AI and its applications in various domains.
-
 🌱 I’m constantly learning and experimenting with new technologies and concepts.
-
 👯 I’m looking to collaborate on projects that blend the realms of electronics, software, and theoretical physics.
-
 📫 How to reach me: [Email](mailto:yomnaothman@aucegypt.edu) | [LinkedIn](https:[//www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/yomna-othman-a6a194297/)) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yomnahisham&layout=compact)
