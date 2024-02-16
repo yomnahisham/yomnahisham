@@ -11,10 +11,4 @@ Hey! I'm Yomna Hisham Abdelkader Othman, an Electronics and Communication Engine
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yomnahisham&layout=compact)
 
-## Interests
-
-- 🌌 **Astrophysics**: I'm fascinated by the mysteries of the universe, from black holes to the origins of the cosmos.
-- 💻 **Software Engineering**: Crafting elegant code and building scalable solutions is my jam.
-- 🧠 **AI**: Exploring the frontiers of artificial intelligence and machine learning algorithms.
-- ➕ **Mathematics**: Solving complex problems and discovering the beauty of mathematical patterns.
 
