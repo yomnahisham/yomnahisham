@@ -4,7 +4,7 @@ Hi! I'm Yomna Hisham Abdelkader Othman, an Electronics and Communication Enginee
 
 ## About Me
 
-🔭 I’m currently exploring the vast universe of AI and its applications in various domains.
+🔭 I’m currently exploring C++ and its applications in the game and application field.
 🌱 I’m constantly learning and experimenting with new technologies and concepts.
 👯 I’m looking to collaborate on projects that blend the realms of electronics, software, and (possibly) theoretical physics.
 
