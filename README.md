@@ -1,4 +1,4 @@
-# 🚀 Welcome to my GitHub Space 🌌
+# 🚀 Welcome! 🌌
 
 Hi! I'm Yomna Hisham Abdelkader Othman, an Electronics and Communication Engineering major at the American University in Cairo with a burning passion for Software Engineering, AI, Astrophysics, and Mathematics. 👨‍🔬💻🔭
 
