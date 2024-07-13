@@ -11,7 +11,7 @@ Hi! I'm Yomna Hisham Abdelkader Othman, an Electronics and Communication Enginee
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yomnahisham&layout=compact)
 
 ## 📫 Reach me: 
-[Email](mailto:yomnaothman@aucegypt.edu) | [LinkedIn](https:[//www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/yomna-othman-a6a194297/)) 
+[Email](mailto:yomnaothman@aucegypt.edu) | [LinkedIn](https:[//www.linkedin.com/in/yourprofile/](www.linkedin.com/in/yomna-othman)) 
 
 
 
