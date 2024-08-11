@@ -1,6 +1,6 @@
 # 🚀 Welcome! 🌌
 
-Hi! I'm Yomna Hisham Abdelkader Othman, an Electronics and Communication Engineering major at the American University in Cairo with a burning passion for Software Engineering, AI, Astrophysics, and Mathematics. 👨‍🔬💻🔭
+Hi! I'm Yomna Hisham Abdelkader Othman, Computer Engineering major at the American University in Cairo with a burning passion for Software Engineering, AI, Astrophysics, and Mathematics. 👨‍🔬💻🔭
 
 ## About Me
 
