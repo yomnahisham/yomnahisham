@@ -25,7 +25,7 @@ I am a dedicated software developer with a strong background in designing scalab
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yomnahisham&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yomnaothman&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yomnahisham&layout=compact)
 
 ---
 
