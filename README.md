@@ -1,6 +1,6 @@
 # Hello, I'm Yomna Othman
 
-I am a dedicated software developer with a strong background in designing scalable and efficient solutions. My expertise spans multiple programming languages and frameworks, and I am continually expanding my skill set to include emerging technologies.
+I am a dedicated software developer with a strong background in designing scalable and efficient solutions. My expertise spans multiple programming languages and frameworks, and I am continually expanding my skill set to include emerging technologies. Currently, I'm exploring hardware designing and development.
 
 ---
 
@@ -32,6 +32,7 @@ I am a dedicated software developer with a strong background in designing scalab
 ## Notable Projects
 
 - **[Ma3akom](your-project-repo-link):** An advanced LLM chabot.
+- **[Vivado-Make](https://github.com/yomnahisham/ts-verilog-simulator):** A Web-Based Verilog Simulator & Waveform Display (no installs).
 
 ---
 
