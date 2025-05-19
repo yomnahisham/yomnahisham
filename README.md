@@ -34,8 +34,4 @@ I am a dedicated software developer with a strong background in designing scalab
 - **[Ma3akom](your-project-repo-link):** An advanced LLM chabot.
 - **[Vivado-Make](https://github.com/yomnahisham/ts-verilog-simulator):** A Web-Based Verilog Simulator & Waveform Display (no installs).
 
----
-
-Thank you for visiting my profile. I look forward to connecting with fellow professionals and exploring new opportunities.
-
 
