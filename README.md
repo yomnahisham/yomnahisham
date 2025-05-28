@@ -15,7 +15,7 @@ I am a dedicated software developer with a strong background in designing scalab
 ## Technical Expertise
 
 - **Programming Languages:** C++, JavaScript, Python, SQL, Verilog
-- **Frameworks & Tools:** Node.js, Express, Flask, React, Docker, CI/CD pipelines
+- **Frameworks & Tools:** Node.js, Express, Next.js, React, Docker
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Other Tools:** Git, Postman
 
