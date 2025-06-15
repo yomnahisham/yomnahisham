@@ -14,7 +14,7 @@ I am a dedicated software developer with a strong background in designing scalab
 
 ## Technical Expertise
 
-- **Programming Languages:** C++, JavaScript, Python, SQL, Verilog
+- **Programming Languages:** C++, JavaScript, TypeScript, Python, SQL, Verilog
 - **Frameworks & Tools:** Node.js, Express, Next.js, React, Docker
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Other Tools:** Git, Postman
@@ -31,7 +31,7 @@ I am a dedicated software developer with a strong background in designing scalab
 
 ## Notable Projects
 
-- **[Ma3akom](your-project-repo-link):** An advanced LLM chabot.
+- **[Ma3akom](project-repo-link):** An advanced LLM chabot.
 - **[Vivado-Make](https://github.com/yomnahisham/ts-verilog-simulator):** A Web-Based Verilog Simulator & Waveform Display (no installs).
 
 
