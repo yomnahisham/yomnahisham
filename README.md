@@ -18,6 +18,9 @@ I'm a dedicated developer with a strong foundation in building scalable and effi
 - **[Vivado-Make](https://github.com/yomnahisham/ts-verilog-simulator):**  
   A browser-based Verilog simulator with waveform visualization—no installation required.
 
+- **[~xform](https://github.com/yomnahisham/py-isa-xform):**  
+  A comprehensive ISA transformation toolkit that provides robust assembler and disassembler capabilities for custom instruction sets. 
+
 - **[Ma3akom](project-repo-link):**  
   An advanced chatbot for AUC’s Student Union using LLMs, with support for a dynamic knowledge base and smart query routing.
 
