@@ -1,7 +1,7 @@
 # Hi!
 **Computer Engineering Student @ AUC** | **Open Source Advocate**
 
-I'm a dedicated developer with a strong foundation in building scalable and efficient solutions. My work spans full-stack development, hardware systems, and emerging technologies like machine learning with language models and quantum computing. I’m constantly exploring new tools to deepen my expertise across the stack.
+I'm a dedicated engineering student with a strong foundation in building scalable and efficient solutions. My work spans full-stack development, hardware systems, and emerging technologies like machine learning with language models and quantum computing. I’m constantly exploring new tools to deepen my expertise across the stack.
 
 
 ## Technical Skills
