@@ -13,7 +13,7 @@ I'm a dedicated engineering student with a strong foundation in building scalabl
 
 
 
-## Projects
+## Notable Projects
 
 - **[Vivado-Make](https://github.com/yomnahisham/ts-verilog-simulator):**  
   A browser-based Verilog simulator with waveform visualization—no installation required.
